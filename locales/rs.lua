@@ -1,0 +1,20 @@
+Locales['rs'] = {
+    ['code_redeem']             = 'Kod',
+    ['redeem']                  = 'Iskoristi kod',
+    ['redeem_success']          = 'Kod je uspesno iskorisccen',
+    ['empty']                   = 'Kod nije unet',
+    ['format']                  = 'Sifra nije vazeca',
+    ['not_exist']               = 'Kod ne postoji',
+    ['limit']                   = 'Kod je dostigao maksimalnu upotrebu',
+    ['full']                    = 'Vasa torba je puna',
+    ['log_message']             = '`%s` je otkupio kod `%s` i dobio `x%s %s`',
+    ['title']                   = 'Napravite Giveaway',
+    ['code']                    = 'Kod',
+    ['maxUse']                  = 'Max Usage',
+    ['reward']                  = 'Nagrada [ money, bank ]',
+    ['quantity']                = 'Kolicina',
+    ['insert_success']          = 'Ubacite za uspeh baze podataka, potvrdite F8 da vidite kod',
+    ['insert_failed']           = 'Ubacite u bazu podataka nije uspelo',
+    ['updated']                 = 'Podaci su azurirani',
+    ['group']                   = 'Nemas dozvolu'
+}
